@@ -8,7 +8,7 @@ class CreateSlidersTable extends Migration
 {
     public function up()
     {
-        Schema::create('sliders', function (Blueprint $table) {
+        Schema::create('juim_sliders', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('name', 250);
             $table->text('content');

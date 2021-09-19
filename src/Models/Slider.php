@@ -10,7 +10,7 @@ class Slider extends Model
     use ResourceModel;
 
     protected $fieldName = 'name';
-    protected $table = 'sliders';
+    protected $table = 'juim_sliders';
     protected $fillable = [
         'name',
         'content'
