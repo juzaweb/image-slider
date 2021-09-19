@@ -18,7 +18,7 @@ class SliderDatatable extends DataTable
     {
         return [
             'name' => [
-                'label' => trans('juim::app.name'),
+                'label' => trans('juim::content.name'),
                 'formatter' => [$this, 'rowActionsFormatter']
             ],
             'created_at' => [

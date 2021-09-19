@@ -27,7 +27,7 @@
                                     <div class="row banner-item">
                                         <div class="col-md-3">
                                             @component('juzaweb::components.form_image', [
-                                                'label' => trans('juim::app.banner'),
+                                                'label' => trans('juim::content.banner'),
                                                 'name' => 'image[]',
                                                 'value' => $banner->image ?? ''
                                             ])@endcomponent
@@ -77,7 +77,7 @@
         <div class="row banner-item">
             <div class="col-md-3">
                 @component('juzaweb::components.form_image', [
-                    'label' => trans('juim::app.banner'),
+                    'label' => trans('juim::content.banner'),
                     'name' => 'image[]'
                 ])@endcomponent
             </div>

@@ -1,5 +1,6 @@
 <?php
 
 return [
-    'name' => 'Name'
+    'name' => 'Name',
+    'banner' => 'Banner',
 ];
