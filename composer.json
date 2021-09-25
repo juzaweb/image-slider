@@ -1,12 +1,11 @@
 {
     "name": "juzaweb/image-slider",
-    "description": "",
+    "description": "Image slider for Juzaweb CMS",
     "extra": {
         "laravel": {
             "providers": [
                 "Juzaweb\\ImageSlider\\Providers\\ImageSliderServiceProvider"
-            ],
-            "aliases": {}
+            ]
         },
         "juzaweb": {
             "name": "Image slider",
