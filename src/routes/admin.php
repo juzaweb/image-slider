@@ -13,3 +13,5 @@
 
 Route::jwResource('sliders', 'Backend\SliderController');
 
+Route::get('ajax-sliders', 'Backend\AjaxController@getSliders')->name('admin.juim.slider.ajax');
+

@@ -18,6 +18,6 @@ class CreateSlidersTable extends Migration
     
     public function down()
     {
-        Schema::dropIfExists('sliders');
+        Schema::dropIfExists('juim_sliders');
     }
 }
