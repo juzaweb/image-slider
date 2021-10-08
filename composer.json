@@ -9,7 +9,8 @@
         },
         "juzaweb": {
             "name": "Image slider",
-            "domain": "juim"
+            "domain": "juim",
+            "version": "1.0.1"
         }
     },
     "autoload": {
