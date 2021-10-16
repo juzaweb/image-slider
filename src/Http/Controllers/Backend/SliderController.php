@@ -59,6 +59,6 @@ class SliderController extends BackendController
 
     protected function getTitle()
     {
-        return trans('mymo::app.sliders');
+        return trans('juim::content.sliders');
     }
 }
