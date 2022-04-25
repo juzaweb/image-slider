@@ -3,7 +3,7 @@
 namespace Juzaweb\ImageSlider;
 
 use Juzaweb\CMS\Abstracts\Action;
-use Juzaweb\Backend\Facades\HookAction;
+use Juzaweb\CMS\Facades\HookAction;
 
 class ImageSliderAction extends Action
 {
