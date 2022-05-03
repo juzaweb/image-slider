@@ -2,18 +2,13 @@
     "name": "juzaweb/image-slider",
     "description": "Create Image slider for Website",
     "extra": {
-        "laravel": {
-            "providers": [
-                "Juzaweb\\AdsManager\\Providers\\AutoloadServiceProvider"
-            ]
-        },
         "juzaweb": {
             "providers": [
                 "Juzaweb\\ImageSlider\\Providers\\ImageSliderServiceProvider"
             ],
             "name": "Image slider",
             "domain": "juim",
-            "version": "1.0.1"
+            "version": "1.0.2"
         }
     },
     "autoload": {
