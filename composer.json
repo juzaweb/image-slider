@@ -9,8 +9,7 @@
                 "Juzaweb\\ImageSlider\\Providers\\ImageSliderServiceProvider"
             ],
             "name": "Image slider",
-            "domain": "juim",
-            "version": "1.0.2"
+            "domain": "juim"
         }
     },
     "autoload": {
