@@ -7,7 +7,7 @@ use Juzaweb\CMS\Facades\HookAction;
 
 class ImageSliderAction extends Action
 {
-    public function handle()
+    public function handle(): void
     {
         $this->addAction(Action::INIT_ACTION, [$this, 'registerResource']);
         $this->addAction(
@@ -21,7 +21,7 @@ class ImageSliderAction extends Action
         );
     }
 
-    public function registerResource()
+    public function registerResource(): void
     {
         HookAction::registerResource(
             'sliders',
@@ -45,12 +45,12 @@ class ImageSliderAction extends Action
         );
     }
 
-    public function addFormBanner($model)
+    public function addFormBanner($model): void
     {
         echo e(view('juim::slider.form', compact('model')));
     }
 
-    public function parseDataForSave($attributes)
+    public function parseDataForSave($attributes): array
     {
         $titles = $attributes['titles'] ?? [];
         $links = $attributes['links'] ?? [];

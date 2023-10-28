@@ -8,7 +8,7 @@ use Juzaweb\ImageSlider\ImageSliderAction;
 
 class ImageSliderServiceProvider extends ServiceProvider
 {
-    public function boot()
+    public function boot(): void
     {
         ActionRegister::register(ImageSliderAction::class);
     }

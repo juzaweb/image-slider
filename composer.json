@@ -8,7 +8,7 @@
             "providers": [
                 "Juzaweb\\ImageSlider\\Providers\\ImageSliderServiceProvider"
             ],
-            "name": "Image slider",
+            "name": "Image Slider",
             "domain": "juim"
         }
     },
