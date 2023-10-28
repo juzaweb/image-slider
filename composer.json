@@ -16,5 +16,8 @@
         "psr-4": {
             "Juzaweb\\ImageSlider\\": "src/"
         }
+    },
+    "require-dev": {
+        "juzaweb/modules": "^1.0"
     }
 }
