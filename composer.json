@@ -1,5 +1,6 @@
 {
     "name": "juzaweb/image-slider",
+    "homepage": "https://juzaweb.com",
     "type": "juzaweb-plugin",
     "license": "MIT",
     "description": "Create Image slider for Website",
