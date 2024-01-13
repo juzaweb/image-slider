@@ -10,7 +10,8 @@
                 "Juzaweb\\ImageSlider\\Providers\\ImageSliderServiceProvider"
             ],
             "name": "Image Slider",
-            "domain": "juim"
+            "domain": "juim",
+            "networkable": true
         }
     },
     "autoload": {
