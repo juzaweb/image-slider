@@ -9,7 +9,7 @@ class ImageSliderAction extends Action
 {
     public function handle(): void
     {
-        $this->addAction(Action::INIT_ACTION, [$this, 'registerResource']);
+        $this->addAction(Action::INIT_ACTION, [$this, 'registerResources']);
         $this->addAction(
             'resource.sliders.form_left',
             [$this, 'addFormBanner']
@@ -21,7 +21,7 @@ class ImageSliderAction extends Action
         );
     }
 
-    public function registerResource(): void
+    public function registerResources(): void
     {
         HookAction::registerResource(
             'sliders',
