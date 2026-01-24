@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => 'Ajouter une bannière',
+    'add_image_slider' => 'Ajouter une diapositive d\'images',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Êtes-vous sûr de vouloir supprimer cette bannière',
+    'back' => 'Retour',
+    'banner' => 'Bannière',
+    'banners' => 'Bannières',
+    'bulk_action_performed_successfully' => 'Action groupée effectuée avec succès',
+    'cancel' => 'Annuler',
+    'create_image_slider' => 'Créer une diapositive d\'images',
+    'create_image_sliders' => 'Créer des diapositives d\'images',
+    'description' => 'Description',
+    'image_sliders' => 'Diapositives d\'images',
+    'information' => 'Information',
+    'link' => 'Lien',
+    'name' => 'Nom',
+    'open_in_new_tab' => 'Ouvrir dans un nouvel onglet',
+    'save' => 'Enregistrer',
+    'slider_name_created_successfully' => 'Diapositive :name créée avec succès',
+    'slider_name_updated_successfully' => 'Diapositive :name mise à jour avec succès',
+    'title' => 'Titre',
+    'yes' => 'Oui',
+];

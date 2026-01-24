@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'name' => 'Isem',
+    'image_sliders' => 'Islayderen n tugniwin',
+    'create_image_slider' => 'Rnu aslayderen',
+    'create_image_sliders' => 'Rnu islayderen',
+    'slider_name_created_successfully' => 'Aslayderen :name yettwarna',
+    'slider_name_updated_successfully' => 'Aslayderen :name yettwalqem',
+    'bulk_action_performed_successfully' => 'Tigawt tamaqqant tettwag',
+    'back' => 'Uγal',
+    'save' => 'Sekles',
+    'information' => 'Talγut',
+    'banners' => 'Isentlen',
+    'add_banner' => 'Rnu asentel',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Tebγiḍ s tidet ad temḥuḍ asentel-a',
+    'banner' => 'Asentel',
+    'title' => 'Azwel',
+    'description' => 'Aglam',
+    'link' => 'Aseγwen',
+    'open_in_new_tab' => 'Ldi deg yiccer amaynut',
+    'add_image_slider' => 'Rnu aslayderen',
+    'yes' => 'Ih',
+    'cancel' => 'Sefsex',
+];

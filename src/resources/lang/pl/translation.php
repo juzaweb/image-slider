@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => 'Dodaj baner',
+    'add_image_slider' => 'Dodaj suwak obrazów',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Czy na pewno chcesz usunąć ten baner',
+    'back' => 'Wstecz',
+    'banner' => 'Baner',
+    'banners' => 'Banery',
+    'bulk_action_performed_successfully' => 'Akcja zbiorcza została pomyślnie wykonana',
+    'cancel' => 'Anuluj',
+    'create_image_slider' => 'Utwórz suwak obrazów',
+    'create_image_sliders' => 'Utwórz suwaki obrazów',
+    'description' => 'Opis',
+    'image_sliders' => 'Suwaki obrazów',
+    'information' => 'Informacja',
+    'link' => 'Link',
+    'name' => 'Nazwa',
+    'open_in_new_tab' => 'Otwórz w nowej karcie',
+    'save' => 'Zapisz',
+    'slider_name_created_successfully' => 'Suwak :name został pomyślnie utworzony',
+    'slider_name_updated_successfully' => 'Suwak :name został pomyślnie zaktualizowany',
+    'title' => 'Tytuł',
+    'yes' => 'Tak',
+];

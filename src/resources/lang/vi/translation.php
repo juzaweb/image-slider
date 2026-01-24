@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => 'Thêm biểu ngữ',
+    'add_image_slider' => 'Thêm thanh trượt hình ảnh',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Bạn có chắc chắn muốn xóa biểu ngữ này không',
+    'back' => 'Quay lại',
+    'banner' => 'Biểu ngữ',
+    'banners' => 'Biểu ngữ',
+    'bulk_action_performed_successfully' => 'Hành động hàng loạt đã được thực hiện thành công',
+    'cancel' => 'Hủy',
+    'create_image_slider' => 'Tạo thanh trượt hình ảnh',
+    'create_image_sliders' => 'Tạo thanh trượt hình ảnh',
+    'description' => 'Mô tả',
+    'image_sliders' => 'Thanh trượt hình ảnh',
+    'information' => 'Thông tin',
+    'link' => 'Liên kết',
+    'name' => 'Tên',
+    'open_in_new_tab' => 'Mở trong tab mới',
+    'save' => 'Lưu',
+    'slider_name_created_successfully' => 'Thanh trượt :name đã được tạo thành công',
+    'slider_name_updated_successfully' => 'Thanh trượt :name đã được cập nhật thành công',
+    'title' => 'Tiêu đề',
+    'yes' => 'Có',
+];

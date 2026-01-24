@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'name' => 'სახელი',
+    'image_sliders' => 'სურათების სლაიდერი',
+    'create_image_slider' => 'სლაიდერის შექმნა',
+    'create_image_sliders' => 'სლაიდერების შექმნა',
+    'slider_name_created_successfully' => 'სლაიდერი :name შეიქმნა',
+    'slider_name_updated_successfully' => 'სლაიდერი :name განახლდა',
+    'bulk_action_performed_successfully' => 'ჯგუფური მოქმედება შესრულდა',
+    'back' => 'უკან',
+    'save' => 'შენახვა',
+    'information' => 'ინფორმაცია',
+    'banners' => 'ბანერები',
+    'add_banner' => 'ბანერის დამატება',
+    'are_you_sure_you_want_to_delete_this_banner' => 'დარწმუნებული ხართ რომ გსურთ ამ ბანერის წაშლა',
+    'banner' => 'ბანერი',
+    'title' => 'სათაური',
+    'description' => 'აღწერა',
+    'link' => 'ბმული',
+    'open_in_new_tab' => 'გახსნა ახალ ფანჯარაში',
+    'add_image_slider' => 'სლაიდერის დამატება',
+    'yes' => 'დიახ',
+    'cancel' => 'გაუქმება',
+];

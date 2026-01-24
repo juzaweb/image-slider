@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'name' => 'Name',
+    'image_sliders' => 'Image Sliders',
+    'create_image_slider' => 'Create Image Slider',
+    'create_image_sliders' => 'Create Image Sliders',
+    'slider_name_created_successfully' => 'Slider :name created successfully',
+    'slider_name_updated_successfully' => 'Slider :name updated successfully',
+    'bulk_action_performed_successfully' => 'Bulk action performed successfully',
+    'back' => 'Back',
+    'save' => 'Save',
+    'information' => 'Information',
+    'banners' => 'Banners',
+    'add_banner' => 'Add Banner',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Are you sure you want to delete this banner',
+    'banner' => 'Banner',
+    'title' => 'Title',
+    'description' => 'Description',
+    'link' => 'Link',
+    'open_in_new_tab' => 'Open in new tab',
+    'add_image_slider' => 'Add Image Slider',
+    'yes' => 'Yes',
+    'cancel' => 'Cancel',
+];

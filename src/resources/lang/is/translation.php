@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'name' => 'Nafn',
+    'image_sliders' => 'Myndrasleðar',
+    'create_image_slider' => 'Búa til myndrasleða',
+    'create_image_sliders' => 'Búa til myndrasleðar',
+    'slider_name_created_successfully' => 'Sleði :name búinn til',
+    'slider_name_updated_successfully' => 'Sleði :name uppfærður',
+    'bulk_action_performed_successfully' => 'Magnvinnsla framkvæmd',
+    'back' => 'Til baka',
+    'save' => 'Vista',
+    'information' => 'Upplýsingar',
+    'banners' => 'Borðar',
+    'add_banner' => 'Bæta við borða',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Ertu viss um að þú viljir eyða þessum borða',
+    'banner' => 'Borði',
+    'title' => 'Titill',
+    'description' => 'Lýsing',
+    'link' => 'Tengill',
+    'open_in_new_tab' => 'Opna í nýjum flipa',
+    'add_image_slider' => 'Bæta við myndrasleða',
+    'yes' => 'Já',
+    'cancel' => 'Hætta við',
+];

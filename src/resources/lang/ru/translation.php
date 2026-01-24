@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => 'Добавить баннер',
+    'add_image_slider' => 'Добавить слайдер изображений',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Вы уверены, что хотите удалить этот баннер',
+    'back' => 'Назад',
+    'banner' => 'Баннер',
+    'banners' => 'Баннеры',
+    'bulk_action_performed_successfully' => 'Массовое действие успешно выполнено',
+    'cancel' => 'Отмена',
+    'create_image_slider' => 'Создать слайдер изображений',
+    'create_image_sliders' => 'Создать слайдеры изображений',
+    'description' => 'Описание',
+    'image_sliders' => 'Слайдеры изображений',
+    'information' => 'Информация',
+    'link' => 'Ссылка',
+    'name' => 'Имя',
+    'open_in_new_tab' => 'Открыть в новой вкладке',
+    'save' => 'Сохранить',
+    'slider_name_created_successfully' => 'Слайдер :name успешно создан',
+    'slider_name_updated_successfully' => 'Слайдер :name успешно обновлен',
+    'title' => 'Заголовок',
+    'yes' => 'Да',
+];

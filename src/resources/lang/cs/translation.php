@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => 'Přidat banner',
+    'add_image_slider' => 'Přidat posuvník obrázků',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Opravdu chcete smazat tento banner',
+    'back' => 'Zpět',
+    'banner' => 'Banner',
+    'banners' => 'Bannery',
+    'bulk_action_performed_successfully' => 'Hromadná akce byla úspěšně provedena',
+    'cancel' => 'Zrušit',
+    'create_image_slider' => 'Vytvořit posuvník obrázků',
+    'create_image_sliders' => 'Vytvořit posuvníky obrázků',
+    'description' => 'Popis',
+    'image_sliders' => 'Posuvníky obrázků',
+    'information' => 'Informace',
+    'link' => 'Odkaz',
+    'name' => 'Jméno',
+    'open_in_new_tab' => 'Otevřít v nové kartě',
+    'save' => 'Uložit',
+    'slider_name_created_successfully' => 'Posuvník :name byl úspěšně vytvořen',
+    'slider_name_updated_successfully' => 'Posuvník :name byl úspěšně aktualizován',
+    'title' => 'Název',
+    'yes' => 'Ano',
+];

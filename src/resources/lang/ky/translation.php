@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'name' => 'Аты',
+    'image_sliders' => 'Сүрөт слайдерлери',
+    'create_image_slider' => 'Слайдер түзүү',
+    'create_image_sliders' => 'Слайдерлер түзүү',
+    'slider_name_created_successfully' => 'Слайдер :name түзүлдү',
+    'slider_name_updated_successfully' => 'Слайдер :name жаңыртылды',
+    'bulk_action_performed_successfully' => 'Жалпы аракет аткарылды',
+    'back' => 'Артка',
+    'save' => 'Сактоо',
+    'information' => 'Маалымат',
+    'banners' => 'Баннерлер',
+    'add_banner' => 'Баннер кошуу',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Бул баннерди өчүргүңүз келгенине ишенесизби',
+    'banner' => 'Баннер',
+    'title' => 'Аталышы',
+    'description' => 'Сыпаттамасы',
+    'link' => 'Шилтеме',
+    'open_in_new_tab' => 'Жаңы өтмөктө ачуу',
+    'add_image_slider' => 'Слайдер кошуу',
+    'yes' => 'Ооба',
+    'cancel' => 'Жокко чыгаруу',
+];

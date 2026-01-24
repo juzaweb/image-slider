@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => 'Añadir banner',
+    'add_image_slider' => 'Añadir deslizador de imágenes',
+    'are_you_sure_you_want_to_delete_this_banner' => '¿Estás seguro de que quieres eliminar este banner',
+    'back' => 'Atrás',
+    'banner' => 'Banner',
+    'banners' => 'Banners',
+    'bulk_action_performed_successfully' => 'Acción masiva realizada exitosamente',
+    'cancel' => 'Cancelar',
+    'create_image_slider' => 'Crear deslizador de imágenes',
+    'create_image_sliders' => 'Crear deslizadores de imágenes',
+    'description' => 'Descripción',
+    'image_sliders' => 'Deslizadores de imágenes',
+    'information' => 'Información',
+    'link' => 'Enlace',
+    'name' => 'Nombre',
+    'open_in_new_tab' => 'Abrir en nueva pestaña',
+    'save' => 'Guardar',
+    'slider_name_created_successfully' => 'Deslizador :name creado exitosamente',
+    'slider_name_updated_successfully' => 'Deslizador :name actualizado exitosamente',
+    'title' => 'Título',
+    'yes' => 'Sí',
+];

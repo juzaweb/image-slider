@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => 'Banner hinzufügen',
+    'add_image_slider' => 'Bildschieberegler hinzufügen',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Möchten Sie dieses Banner wirklich löschen',
+    'back' => 'Zurück',
+    'banner' => 'Banner',
+    'banners' => 'Banner',
+    'bulk_action_performed_successfully' => 'Massenaktion erfolgreich durchgeführt',
+    'cancel' => 'Abbrechen',
+    'create_image_slider' => 'Bildschieberegler erstellen',
+    'create_image_sliders' => 'Bildschieberegler erstellen',
+    'description' => 'Beschreibung',
+    'image_sliders' => 'Bildschieberegler',
+    'information' => 'Information',
+    'link' => 'Link',
+    'name' => 'Name',
+    'open_in_new_tab' => 'In neuem Tab öffnen',
+    'save' => 'Speichern',
+    'slider_name_created_successfully' => 'Schieberegler :name erfolgreich erstellt',
+    'slider_name_updated_successfully' => 'Schieberegler :name erfolgreich aktualisiert',
+    'title' => 'Titel',
+    'yes' => 'Ja',
+];

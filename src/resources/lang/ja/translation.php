@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => 'バナーを追加',
+    'add_image_slider' => '画像スライダーを追加',
+    'are_you_sure_you_want_to_delete_this_banner' => 'このバナーを削除してもよろしいですか',
+    'back' => '戻る',
+    'banner' => 'バナー',
+    'banners' => 'バナー',
+    'bulk_action_performed_successfully' => '一括操作が正常に実行されました',
+    'cancel' => 'キャンセル',
+    'create_image_slider' => '画像スライダーを作成',
+    'create_image_sliders' => '画像スライダーを作成',
+    'description' => '説明',
+    'image_sliders' => '画像スライダー',
+    'information' => '情報',
+    'link' => 'リンク',
+    'name' => '名前',
+    'open_in_new_tab' => '新しいタブで開く',
+    'save' => '保存',
+    'slider_name_created_successfully' => 'スライダー :name が正常に作成されました',
+    'slider_name_updated_successfully' => 'スライダー :name が正常に更新されました',
+    'title' => 'タイトル',
+    'yes' => 'はい',
+];

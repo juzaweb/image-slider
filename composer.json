@@ -1,26 +1,12 @@
 {
     "name": "juzaweb/image-slider",
     "homepage": "https://juzaweb.com",
-    "type": "juzaweb-plugin",
+    "type": "juzaweb-module",
     "license": "MIT",
     "description": "Create Image slider for Website",
-    "extra": {
-        "juzaweb": {
-            "providers": [
-                "Juzaweb\\ImageSlider\\Providers\\ImageSliderServiceProvider"
-            ],
-            "name": "Image Slider",
-            "domain": "juim",
-            "networkable": true
-        }
-    },
     "autoload": {
         "psr-4": {
-            "Juzaweb\\ImageSlider\\": "src/"
+            "Juzaweb\\Modules\\ImageSlider\\": "src/"
         }
-    },
-    "require-dev": {
-        "juzaweb/modules": "^1.0",
-        "juzaweb/dev-tool": "^1.0"
     }
 }

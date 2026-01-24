@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => 'Afiş ekle',
+    'add_image_slider' => 'Görüntü kaydırıcı ekle',
+    'are_you_sure_you_want_to_delete_this_banner' => 'Bu afişi silmek istediğinizden emin misiniz',
+    'back' => 'Geri',
+    'banner' => 'Afiş',
+    'banners' => 'Afişler',
+    'bulk_action_performed_successfully' => 'Toplu işlem başarıyla gerçekleştirildi',
+    'cancel' => 'İptal',
+    'create_image_slider' => 'Görüntü kaydırıcı oluştur',
+    'create_image_sliders' => 'Görüntü kaydırıcılar oluştur',
+    'description' => 'Açıklama',
+    'image_sliders' => 'Görüntü kaydırıcılar',
+    'information' => 'Bilgi',
+    'link' => 'Bağlantı',
+    'name' => 'İsim',
+    'open_in_new_tab' => 'Yeni sekmede aç',
+    'save' => 'Kaydet',
+    'slider_name_created_successfully' => 'Kaydırıcı :name başarıyla oluşturuldu',
+    'slider_name_updated_successfully' => 'Kaydırıcı :name başarıyla güncellendi',
+    'title' => 'Başlık',
+    'yes' => 'Evet',
+];

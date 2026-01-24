@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => '添加横幅',
+    'add_image_slider' => '添加图像滑块',
+    'are_you_sure_you_want_to_delete_this_banner' => '您确定要删除此横幅吗',
+    'back' => '返回',
+    'banner' => '横幅',
+    'banners' => '横幅',
+    'bulk_action_performed_successfully' => '批量操作成功执行',
+    'cancel' => '取消',
+    'create_image_slider' => '创建图像滑块',
+    'create_image_sliders' => '创建图像滑块',
+    'description' => '描述',
+    'image_sliders' => '图像滑块',
+    'information' => '信息',
+    'link' => '链接',
+    'name' => '名称',
+    'open_in_new_tab' => '在新标签页中打开',
+    'save' => '保存',
+    'slider_name_created_successfully' => '滑块 :name 创建成功',
+    'slider_name_updated_successfully' => '滑块 :name 更新成功',
+    'title' => '标题',
+    'yes' => '是',
+];

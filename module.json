@@ -1,0 +1,11 @@
+{
+    "name": "ImageSlider",
+    "alias": "image-slider",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Juzaweb\\Modules\\ImageSlider\\Providers\\ImageSliderServiceProvider"
+    ],
+    "files": []
+}

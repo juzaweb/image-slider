@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'add_banner' => '배너 추가',
+    'add_image_slider' => '이미지 슬라이더 추가',
+    'are_you_sure_you_want_to_delete_this_banner' => '이 배너를 삭제하시겠습니까',
+    'back' => '뒤로',
+    'banner' => '배너',
+    'banners' => '배너',
+    'bulk_action_performed_successfully' => '대량 작업이 성공적으로 수행되었습니다',
+    'cancel' => '취소',
+    'create_image_slider' => '이미지 슬라이더 만들기',
+    'create_image_sliders' => '이미지 슬라이더 만들기',
+    'description' => '설명',
+    'image_sliders' => '이미지 슬라이더',
+    'information' => '정보',
+    'link' => '링크',
+    'name' => '이름',
+    'open_in_new_tab' => '새 탭에서 열기',
+    'save' => '저장',
+    'slider_name_created_successfully' => '슬라이더 :name이(가) 성공적으로 생성되었습니다',
+    'slider_name_updated_successfully' => '슬라이더 :name이(가) 성공적으로 업데이트되었습니다',
+    'title' => '제목',
+    'yes' => '예',
+];
