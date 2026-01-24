@@ -10,13 +10,7 @@ class ImageSliderServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
-        //
-
-        $this->booted(
-            function () {
-                $this->registerMenus();
-            }
-        );
+        $this->registerMenus();
     }
 
     public function register(): void
@@ -24,16 +18,12 @@ class ImageSliderServiceProvider extends ServiceProvider
         $this->registerTranslations();
         $this->registerConfig();
         $this->registerViews();
-        $this->loadMigrationsFrom(__DIR__ . '/../Database/migrations');
+        $this->loadMigrationsFrom(__DIR__ . '/../../database/migrations');
         $this->app->register(RouteServiceProvider::class);
     }
 
     protected function registerMenus(): void
     {
-        if (File::missing(storage_path('app/installed'))) {
-            return;
-        }
-
         Menu::make('image-sliders', function () {
             return [
                 'title' => __('image-slider::translation.image_sliders'),
@@ -47,7 +37,7 @@ class ImageSliderServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__ . '/../config/config.php' => config_path('image-slider.php'),
         ], 'image-slider-config');
-        $this->mergeConfigFrom(__DIR__ . '/../config/config.php', 'image-slider');
+        $this->mergeConfigFrom(__DIR__ . '/../../config/config.php', 'image-slider');
     }
 
     protected function registerTranslations(): void
