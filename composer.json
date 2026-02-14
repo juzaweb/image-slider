@@ -2,7 +2,7 @@
     "name": "juzaweb/image-slider",
     "homepage": "https://juzaweb.com",
     "type": "juzaweb-module",
-    "license": "MIT",
+    "license": "GPL-2.0",
     "description": "Create Image slider for Website",
     "autoload": {
         "psr-4": {
